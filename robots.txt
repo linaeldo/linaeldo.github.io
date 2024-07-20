@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://linaeldo.github.io/sitemap
+Sitemap: https://linaeldo.github.io/app/sitemap
+Sitemap: https://linaeldo.github.io/assets/sitemap
+Sitemap: https://linaeldo.github.io/css/sitemap
+Sitemap: https://linaeldo.github.io/includes/sitemap
+Sitemap: https://linaeldo.github.io/item/sitemap
+Sitemap: https://linaeldo.github.io/src/sitemap
